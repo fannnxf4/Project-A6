@@ -67,7 +67,7 @@ Rose Diagram adalah visualisasi penting dalam geologi struktural untuk menganali
 
    ```
 
-   http://localhost:8501
+   http://localhost:8518
 
    ```
    Jika tidak terbuka otomatis, salin URL yang ditampilkan di terminal dan buka di browser.
