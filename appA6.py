@@ -183,7 +183,7 @@ else:
     st.info("👈 **Silakan masukkan data di sidebar kiri atau upload CSV**")
     st.markdown("""
     ### 📝 Cara Penggunaan:
-    1. Masukkan data **strike** dan **dip** manual atau **upload CSV** (kolom: Strike, Dip)
+    1. Masukkan data **strike** dan **dip** manual atau **upload CSV** (dalam 1 kolom: Strike/Dip)
     2. Masukkan **nama diagram** (opsional)
     3. Atur **ukuran bin** sesuai kebutuhan
     4. Pilih **color map**
@@ -196,4 +196,5 @@ else:
     - Contoh format: `185, 170, 173, 170` atau `185\\n170\\n173\\n170`
     - Nilai strike biasanya antara 0-360 derajat
     - Nilai dip biasanya antara 0-90 derajat
+
     """)
