@@ -199,7 +199,7 @@ color=plt.cm.viridis(dip_norm)  # Ganti 'viridis' dengan 'plasma', 'inferno', 'm
 Colormap yang tersedia: `viridis`, `plasma`, `inferno`, `magma`, `coolwarm`, dll.
 
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 
 
@@ -232,7 +232,7 @@ pip install -r requirements.txt
 
 ```bash
 
-streamlit run app.py --server.port 8502
+streamlit run app.py --server.port 85019
 
 ```
 
@@ -275,7 +275,7 @@ Dibuat untuk keperluan analisis geologi struktural.
 
 
 ## 🙏 Acknowledgment
-- Streamlit untuk framework yang powerfu
+- Streamlit untuk framework yang powerfull
 - Matplotlib untuk visualisasi yang berkualitas
 - Komunitas geologi struktural untuk inspirasi
 
